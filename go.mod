@@ -1,4 +1,4 @@
-module github.com/scmhub/ibapi
+module github.com/scmhub/ibapi/v10
 
 go 1.23
 
